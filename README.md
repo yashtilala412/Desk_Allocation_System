@@ -17,7 +17,8 @@ A custom Frappe application designed to simplify and gamify the complex process 
 - **Framework:** Frappe Framework v14/v15
 
 
-
+![alt text](image.png)
+![alt text](image-1.png)
 
 ### Desk Allocator
 
